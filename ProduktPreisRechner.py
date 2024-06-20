@@ -1,3 +1,10 @@
+#command prompts are all written in german
+"""
+I created this script for my mom, because she sometimes struggles with adjusting the prices of products in packing lists, due to the limited decimal places. She sometimes has to adjust the values for hours, so i decided to help her out a little bit.
+Currently the programm doesn't support 3 different products, even though it states that it does. It will be fixed shortly.
+"""
+
+
 import math
 
 product_prices = []
